@@ -38,14 +38,14 @@
 
 表现效果
 
-巡逻中
+巡逻中 包含随机点巡逻、多点循环巡逻，此处展示效果为多点循环巡逻
 ![}WV_3@JTWAQH~0DAOW005UH](https://github.com/user-attachments/assets/8a9db382-aef4-4a92-b6e2-68a58512caa1)
 
-进入范围后进入追逐
+进入追逐范围后追逐
 ![VJ8TUMYBGJ5XS988(TXKCHD](https://github.com/user-attachments/assets/65189389-7820-432a-895b-55a96193b862)
 
-攻击
+进入攻击范围后攻击
 ![$`JU422T76} CB4H3S5Y26K](https://github.com/user-attachments/assets/827951a2-5f55-4f6e-8be6-c68a794da261)
 
-超出范围回归
+超出最大范围回归
 ![~ FUM$F_EI151JD4}TNNA~8](https://github.com/user-attachments/assets/b15a73de-9a11-4416-979f-6765cfe291e5)
